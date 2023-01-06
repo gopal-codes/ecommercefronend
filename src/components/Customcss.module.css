@@ -1,0 +1,17 @@
+::-webkit-scrollbar{
+    height:10px;
+    background-color: black;
+}
+
+::-webkit-scrollbar-thumb{
+    
+    background-color:teal;
+    border-radius: 40px;
+}
+
+::-webkit-scrollbar-button{
+    background-color: teal;
+    width:10px;
+    border-radius: 50%;
+}
+.nothing{}
