@@ -116,7 +116,7 @@ const Latest = () => {
                </Icon>
                <Icon
                  onClick={() =>
-                   history.push({ pathname: "/singleProduct", state: { data: product } })
+                   history.push({ pathname: "/singleProduct", state: { data: item } })
                  }
                >
                  <SearchOutlined />
